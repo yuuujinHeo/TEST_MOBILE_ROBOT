@@ -1,0 +1,6 @@
+struct robot_pose
+{
+    float x;
+    float y;
+    float th;
+}
